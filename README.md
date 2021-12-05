@@ -16,4 +16,4 @@ in procedure 'init'
 in procedure 'ocd_bouncer'
 ```
 ### P.S.
-Be careful when you read a tutorial from https://docs.rust-embedded.org/discovery, because it's brilliant and mainly mainly about cortex F3 :)
+Be careful when you read a tutorial from https://docs.rust-embedded.org/discovery, because it's brilliant as much as it's about the cortex F3 :)
